@@ -7,7 +7,7 @@ The install.sh file has been created, it will automatically install docker and d
 ### To run the install.sh, use these commands (after cloned the repo):
 
 1. cd Automated-Query-App
-2. ./install.sh "If you don't start in the Automated-Query-App directory, you'll get an error."
+2. bash install.sh "If you don't start in the Automated-Query-App directory, you'll get an error."
 3. Now visit the http://localhost:8080 page and paste these queries:
 
 #### You can use these queries for listing ...
